@@ -23,9 +23,6 @@ ignore:
   - DBM-Outlands/Libs/LibDeflate/CONTRIBUTING.md
   - DBM-Outlands/Libs/LibDeflate/changelog.md
   - DBM-Outlands/Libs/LibStub/tests
-  - DBM-Outlands/Libs/LibDeflate/LibDeflate.toc
-  - DBM-Outlands/Libs/LibStub/LibStub.toc
-  - DBM-Outlands/Libs/LibSerialize/LibSerialize.toc
   - DBM-Outlands/Libs/LibDataBroker-1.1/README.textile
   - DBM-VPVEM/README.md
 
